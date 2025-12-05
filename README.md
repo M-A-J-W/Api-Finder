@@ -1,7 +1,7 @@
 # API‑Finder
 
 
-Der **API‑Finder** ist ein leistungsstarkes Entwickler‑Tool, das automatisch nach verfügbaren API‑Endpunkten, Parametern, Dokumentationen und Strukturen sucht – ideal für Reverse‑Engineering, API‑Analyse, Debugging und schnelle Integration in eigene Projekte.
+Der **API‑Finder** ist ein Entwickler‑Tool, geschrieben in python, das automatisch nach verfügbaren API‑Endpunkten, Parametern, Dokumentationen und Strukturen sucht – ideal für Reverse‑Engineering, API‑Analyse, Debugging und schnelle Integration in eigene Projekte.
 
 
 ---
